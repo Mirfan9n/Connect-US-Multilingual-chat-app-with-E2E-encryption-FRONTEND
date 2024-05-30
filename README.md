@@ -37,3 +37,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # nextjs-whatsapp-clone-starter
+
+
+![Screenshot 2024-05-30 194638](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/3a1e4da1-cab8-413b-aa81-5852f7848c89)
+
