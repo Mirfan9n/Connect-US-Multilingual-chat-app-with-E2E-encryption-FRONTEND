@@ -12,11 +12,12 @@ User can choose the languages in which they want to communicate with others
 
 # Chat page
 ![Screenshot 2024-05-30 194429](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/76263397-6278-4f9e-8519-1d81cf46b5f4)
-![Screenshot 2024-05-30 194516](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/04fe1c41-9b00-4a38-ac62-93ea57012a2d)
-
 
 # Chating with different languages
 ![Screenshot 2024-05-30 194456](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/9a921c84-b099-4201-bd6c-c679cd83b045)
+
+![Screenshot 2024-05-30 194516](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/04fe1c41-9b00-4a38-ac62-93ea57012a2d)
+
 
 # Database stored end to end ecrypted messages
 
