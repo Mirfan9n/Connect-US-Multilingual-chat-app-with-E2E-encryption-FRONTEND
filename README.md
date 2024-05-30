@@ -1,6 +1,6 @@
 
 
-## Here are some screenshots of my application
+# Here are some screenshots of my application
 
 # Login Page
 User can login via there google account
