@@ -18,7 +18,7 @@ User can choose the languages in which they want to communicate with others
 # Chating with different languages
 ![Screenshot 2024-05-30 194456](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/9a921c84-b099-4201-bd6c-c679cd83b045)
 
-# Database with have stored end to end ecrypted messages
+# Database stored end to end ecrypted messages
 
 ![Screenshot 2024-05-30 194537](https://github.com/Mirfan9n/Connect-US-Multilingual-chat-app-with-E2E-encryption-FRONTEND/assets/113027496/8e3238ba-bfa6-4fdf-87ad-85762da54d9a)
 
